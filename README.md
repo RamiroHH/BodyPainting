@@ -101,29 +101,6 @@ Además, utiliza:
 
 ---
 
-## Capturas del Sistema
-
-### Login
-
-![Login](imagenes/login.png)
-
-### Catálogo
-
-![Catalogo](imagenes/catalogo.png)
-
-### Panel Administrador
-
-![Admin](imagenes/admin.png)
-
-### Panel Vendedor
-
-![Vendedor](imagenes/vendedor.png)
-
-### Vista Cliente
-
-![Cliente](imagenes/cliente.png)
-
----
 
 ## Metodología de Trabajo
 
@@ -162,5 +139,20 @@ Durante el desarrollo se trabajó en:
 
 Proyecto académico desarrollado por estudiantes de la Tecnicatura Universitaria en Programación - UTN.
 
-Integrante:
-Ramiro Hernández
+## Mi Participación
+
+Tuve una participación activa en prácticamente todas las etapas técnicas del proyecto, colaborando tanto en el desarrollo backend como frontend.
+
+Responsabilidades principales:
+
+- Diseño e implementación de APIs REST utilizando Spring Boot.
+- Desarrollo de lógica de negocio y reglas de validación.
+- Modelado de entidades y relaciones con JPA/Hibernate.
+- Implementación de autenticación y autorización mediante JWT.
+- Desarrollo de interfaces de usuario con React.
+- Integración Frontend-Backend.
+- Implementación de gestión de productos, pedidos, carrito de compras y cupones de descuento.
+- Desarrollo de reportes comerciales y control de stock.
+- Resolución de conflictos de integración mediante Git y GitHub.
+- Pruebas funcionales y validación de historias de usuario.
+- Documentación y seguimiento del proyecto utilizando Jira bajo metodología Scrum.
